@@ -1,6 +1,7 @@
 body {
     font-family: 'Poppins', sans-serif;
     margin: 0;
+
 }
 
 h1 {
@@ -36,4 +37,36 @@ h1 {
     background-repeat: no-repeat;
     background-size: cover;
     height: 500px
+}
+
+.bold-font {
+    font-size: 30px;
+}
+
+.donation-amount {
+    display: flex;
+    justify-content: center;
+
+}
+
+.donation-info {
+    text-align: center;
+    padding-top: 130px;
+    line-height: 30px;
+}
+
+h3 {
+    width: 90px;
+    height: 70px;
+    margin: 10px;
+    background-color: #fafafa;
+}
+
+.style-line {
+    background-color: #ffeeee;
+    border: 2px solid #FF5959;
+    padding: 20px;
+    border-radius: 4px;
+    color: #FF5959;
+
 }
