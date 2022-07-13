@@ -17,6 +17,10 @@ h1 {
     color: white;
     font-size: 700;
     border-radius: 4%;
+    display: inline-block;
+    margin-top: 10px;
+}
+
 
 }
 
@@ -69,4 +73,12 @@ h3 {
     border-radius: 4px;
     color: #FF5959;
 
+}
+
+.input-border {
+    text-align: center;
+    border: 0;
+    border-bottom: 1px solid black;
+    outline: 0;
+    width: 500px;
 }
