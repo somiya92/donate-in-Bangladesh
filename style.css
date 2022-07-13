@@ -55,11 +55,11 @@ h1 {
 
 .donation-info {
     text-align: center;
-    padding-top: 130px;
+    padding-top: 100px;
     line-height: 30px;
 }
 
-h3 {
+.plan-head {
     width: 90px;
     height: 70px;
     margin: 10px;
@@ -81,4 +81,29 @@ h3 {
     border-bottom: 1px solid black;
     outline: 0;
     width: 500px;
+}
+
+
+.food {
+    width: 250px;
+    border: 0;
+    padding: 20px;
+    margin: 20px;
+    background-color: #b1d2d6b0;
+}
+
+.shelter {
+    width: 250px;
+    border: 0;
+    padding: 20px;
+    margin: 20px;
+    background-color: #df8d8d98;
+}
+
+.education {
+    width: 250px;
+    border: 0;
+    padding: 20px;
+    margin: 20px;
+    background-color: #5a2f2f6e;
 }
