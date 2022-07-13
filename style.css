@@ -56,7 +56,6 @@ h1 {
 .donation-info {
     text-align: center;
     padding-top: 100px;
-    line-height: 30px;
 }
 
 .plan-head {
@@ -106,4 +105,83 @@ h1 {
     padding: 20px;
     margin: 20px;
     background-color: #5a2f2f6e;
+}
+
+.about {
+    display: flex;
+    padding-top: 100px;
+}
+
+.half-width {
+    width: 50%;
+    padding-left: 12%;
+}
+
+.half-width img {
+    width: 80%;
+}
+
+.email-box {
+    background-color: rgba(151, 140, 140, 0.842);
+    border: 0;
+    padding: 11px;
+    width: 250px;
+    border: none;
+    outline: none;
+
+}
+
+.contact-box {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding-bottom: 100px;
+
+
+}
+
+.subs-button {
+    text-decoration: none;
+    background-color: #FF5959;
+    padding: 7px;
+    color: white;
+    font-size: 700;
+    border: none;
+    outline: none;
+}
+
+.padding1 {
+    background-color: #df8d8d31;
+    padding-left: 150px;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+.padding2 {
+    background-color: #df8d8d31;
+    padding-right: 150px;
+    padding-top: 56px;
+    padding-bottom: 56px;
+}
+
+.font-change2 {
+    color: white;
+    font-size: 10px;
+}
+
+.font-change {
+
+    color: #FF5959;
+    font-size: 23px;
+    font-family: 'Lobster', cursive;
+
+}
+
+.footer-style {
+    padding-top: 130px;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    padding: 12px;
+    background-color: #0b0d17;
 }
